@@ -8,22 +8,22 @@
 
 🚀 By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
 
-### 🎓 Academic Journey
+## 🎓 Academic Journey
 
-#### Liceo Scientifico F. Buonarroti - Scienze Applicate
+#### Liceo Scientifico F. Buonarroti 🇮🇹
 - **Scienze Applicate** (2018 – 2023)  
   - 🎓 100/100esimi
 
-#### Winfield High School (KS)
+#### Winfield High School (KS) 🇺🇸
 - **Exchange Student Program** (2022)  
-  - 🇺🇸 GPA: 4.0
+  - 🎓 GPA: 4.0
 
-#### University of Pisa
+#### University of Pisa 🇮🇹
 - **Bachelor in Informatics** (2023 – )  
   - 🎓 Informatics
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
-#### Università della Svizzera italiana (USI), Lugano
+#### Università della Svizzera italiana (USI), Lugano 🇨🇭
 - **Bachelor in Informatics** (2024 - 2025)  
   - 🎓 Informatics Program
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
