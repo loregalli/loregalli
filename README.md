@@ -8,6 +8,18 @@
 
 🚀 By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
 
+## 🎓 Academic Journey
+
+### University of Pisa
+- **Bachelor in Informatics** (2023 – )  
+  - 🎓 [Informatics Program](https://www.di.unipi.it/en/education/bachelor-in-computer-science/)
+  - [Dual Career]() Student-Athlete
+
+### Università della Svizzera italiana (USI), Lugano
+- **Bachelor in Informatics** (2022 – 2023)  
+  - 🎓 [Informatics Program](https://www.usi.ch/en/education/bachelor/informatics)  
+  - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
+
 ### 🌐 Social  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzogallii)
 
