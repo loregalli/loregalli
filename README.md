@@ -10,14 +10,22 @@
 
 ### 🎓 Academic Journey
 
+#### Liceo Scientifico F. Buonarroti - Scienze Applicate
+- **Scienze Applicate** (2018 – 2023)  
+  - 🎓 100/100esimi
+
+#### Winfield High School (KS)
+- **Exchange Student Program** (2022)  
+  - 🇺🇸 GPA: 4.0
+
 #### University of Pisa
 - **Bachelor in Informatics** (2023 – )  
-  - 🎓 [Informatics Program]([https://www.di.unipi.it/en/education/bachelor-in-computer-science/](https://didattica.di.unipi.it/laurea-in-informatica/))
+  - 🎓 Informatics
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
 #### Università della Svizzera italiana (USI), Lugano
-- **Bachelor in Informatics** (2022 – 2023)  
-  - 🎓 [Informatics Program]([https://www.usi.ch/en/education/bachelor/informatics](https://www.usi.ch/it/formazione/bachelor/informatica))  
+- **Bachelor in Informatics** (2024 - 2025)  
+  - 🎓 Informatics Program
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
 
 ### 🌐 Social  
