@@ -25,7 +25,7 @@
 
 #### Università della Svizzera italiana (USI), Lugano 🇨🇭
 - **Bachelor in Informatics** (2024 - 2025)  
-  - 🎓 Informatics Program
+  - 🎓 Informatics
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
 
 ### 🌐 Social  
