@@ -1,4 +1,4 @@
-# Hi, I am Lorenzo! 👋
+# Hi, I am Lorenzo! 🏃
 
 I am an **Informatics student** at the **University of Pisa**, recently on exchange at the **University of Italian Switzerland (USI)**. As a Track and Field athlete, athletics official and sports photographer, I combine my passion for sports with technology to enhance athletes performance and fans experience.
 
