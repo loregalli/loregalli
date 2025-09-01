@@ -12,7 +12,7 @@
 
 #### Liceo Scientifico F. Buonarroti 🇮🇹
 - **Scienze Applicate** (2018 – 2023)  
-  - 🎓 100/100esimi
+  - 🎓 100/100
 
 #### Winfield High School (KS) 🇺🇸
 - **Exchange Student Program** (2022)  
