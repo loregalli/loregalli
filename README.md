@@ -8,16 +8,16 @@
 
 🚀 By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
 
-## 🎓 Academic Journey
+### 🎓 Academic Journey
 
-### University of Pisa
+#### University of Pisa
 - **Bachelor in Informatics** (2023 – )  
-  - 🎓 [Informatics Program](https://www.di.unipi.it/en/education/bachelor-in-computer-science/)
-  - [Dual Career]() Student-Athlete
+  - 🎓 [Informatics Program]([https://www.di.unipi.it/en/education/bachelor-in-computer-science/](https://didattica.di.unipi.it/laurea-in-informatica/))
+  - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
-### Università della Svizzera italiana (USI), Lugano
+#### Università della Svizzera italiana (USI), Lugano
 - **Bachelor in Informatics** (2022 – 2023)  
-  - 🎓 [Informatics Program](https://www.usi.ch/en/education/bachelor/informatics)  
+  - 🎓 [Informatics Program]([https://www.usi.ch/en/education/bachelor/informatics](https://www.usi.ch/it/formazione/bachelor/informatica))  
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
 
 ### 🌐 Social  
