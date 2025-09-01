@@ -10,14 +10,6 @@
 
 ## 🎓 Academic Journey
 
-#### Liceo Scientifico F. Buonarroti 🇮🇹
-- **Scienze Applicate** (2018 – 2023)  
-  - 🎓 100/100
-
-#### Winfield High School (KS) 🇺🇸
-- **Exchange Student Program** (2022)  
-  - 🎓 GPA: 4.0
-
 #### University of Pisa 🇮🇹
 - **Bachelor in Informatics** (2023 – )  
   - 🎓 Informatics
