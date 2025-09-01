@@ -4,7 +4,9 @@
 
 🏃 I am part of the **Dual Career** program at the University of Pisa, through which I hold the status of **Student-Athlete**.
 
-📊 I am particularly interested in exploring the field of **Sport Anlytics**, meaning data science and data analysis applied to sports. I want to understand how data can be used to optimize athletic performance, prevent injuries, and enhance decision-making for both athletes and coaches. By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
+📊 I am particularly interested in exploring the field of **Sport Anlytics**, meaning data science and data analysis applied to sports. I want to understand how data can be used to optimize athletic performance, prevent injuries, and enhance decision-making for both athletes and coaches.
+
+🚀 By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
 
 ### 🌐 Social  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzogallii)
